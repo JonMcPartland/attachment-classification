@@ -1,0 +1,9 @@
+{
+    "name": "jonmcpartland/attachment-classification",
+    "description": "Adds taxonomy support to attachments.",
+    "homepage": "https://github.com/JonMcPartland/attachment-classification",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
