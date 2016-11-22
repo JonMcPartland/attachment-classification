@@ -18,7 +18,7 @@ new class {
 
 	public function __construct() {
 		\add_action( 'after_setup_theme', [ $this, 'run_filter' ] );
-		\add_action( 'init', [ $this, 'register_taxonomies' ], 100 );
+		\add_action( 'init', [ $this, 'register_taxonomies' ], 9999 );
 	}
 
 	public function run_filter() {
