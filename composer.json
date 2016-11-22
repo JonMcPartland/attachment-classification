@@ -1,7 +1,7 @@
 {
-    "name": "jonmcpartland/attachment-classification",
+    "name": "bigbitecreative/attachment-classification",
     "description": "Adds taxonomy support to attachments.",
-    "homepage": "https://github.com/JonMcPartland/attachment-classification",
+    "homepage": "https://github.com/bigbitecreative/attachment-classification",
     "type": "wordpress-plugin",
     "require": {
         "composer/installers": "~1.0"
